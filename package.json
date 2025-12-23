@@ -1,0 +1,22 @@
+{
+  "name": "tp_explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyDolzhenko/TP_explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyDolzhenko/TP_explorer/issues"
+  },
+  "homepage": "https://github.com/AndreyDolzhenko/TP_explorer#readme",
+  "description": ""
+}
